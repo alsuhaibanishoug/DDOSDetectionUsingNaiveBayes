@@ -1,0 +1,1 @@
+Download the dataset used here by copying this link "https://www.kaggle.com/datasets/devendra416/ddos-datasets".
