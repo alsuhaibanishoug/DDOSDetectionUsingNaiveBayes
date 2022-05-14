@@ -2,7 +2,7 @@
 # Course Project | DDOS Detection by naive bayes
 The project aims to apply one machine learning (ML) technique to solve an issue in any field.
 ### Issue description 
-**Distributed Denial of service (DDoS)** attacks users from accessing the network and makes services unavailable or only partially available. The attacker floods the targeted machine or resource with excessive requests. The victim's incoming traffic originates from many different sources. Attackers use many (remotely) controlled computers to attack the victim. 
+**Distributed Denial of service (DDoS)**, attacks users from accessing the network and makes services unavailable or only partially available. The attacker floods the targeted machine or resource with excessive requests. The victim's incoming traffic originates from many different sources. Attackers use many (remotely) controlled computers to attack the victim. 
 ### Machine learning (ML) technique
 In this project, we use the [Naive Bayes technique](https://scikit-learn.org/stable/modules/naive_bayes.html) to detect which if the request ddos or benign.
 ### Dataset
