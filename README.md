@@ -38,8 +38,9 @@ We use this option by using azure services in
  [Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/), is a cloud-based solution for ML workload and provides an end-to-end machine learning platform to enable users to build and deploy models faster on Azure.
 First, create a notebook for the project. Second, create a  [compute instance](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-manage-compute-instance?tabs=python) to execute the written code. The instance we chose had the following specifications Standard_E4a_v4 (4 cores, 32 GB RAM, 100 GB disk)
 ## Prepared By 
-- Sarah Khalid Alaradi       skmaloridi@sm.imamu.edu.sa   [@alaridisarah](https://github.com/alaridisarah)
+- Shoug Ali Alsuhaibani      ssuhaibani@sm.imamu.edu.sa   
+- Sarah Khalid Alaradi       skmaloridi@sm.imamu.edu.sa  
 
-- Shoug Ali Alsuhaibani      ssuhaibani@sm.imamu.edu.sa   [@alsuhaibanishoug](https://www.github.com/alsuhaibanishoug)
+
  
 
