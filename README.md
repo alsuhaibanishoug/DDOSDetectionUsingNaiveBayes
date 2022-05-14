@@ -7,6 +7,11 @@ The project aims to apply one machine learning (ML) technique to solve an issue 
 In this project, we use the [Naive Bayes technique](https://scikit-learn.org/stable/modules/naive_bayes.html) to detect which if the request ddos or benign.
 ## Dataset
 The [Dataset](https://www.kaggle.com/datasets/devendra416/ddos-datasets) is extracted from different IDS datasets that were produced in different years and different experimental DDoS traffic generation tools, it has more than 12 milion records (ddos and benign) and 85 features.
+## Tools
+
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img alt="Microsoft Azure" src="https://www.artifakt.com/content/uploads/2021/09/Microsoft-Azure-Logo-1.png" width="90" height="50"/> 
+
 ##  Instructions to run notebook
 Required packages:
 
